@@ -6,6 +6,7 @@ Author : G Raghu Vamshi <br>
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
+* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
